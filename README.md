@@ -1,5 +1,5 @@
 # share_url_support_url
-This is the support site for SHARE_URL. If you have any questions, please contact us at the email address below.
+This is the support site for SHARE_URL. If you have any questions or account delete request, please contact us at the email address below.
 
 Please use the email address below to request deletion of your account.
 
